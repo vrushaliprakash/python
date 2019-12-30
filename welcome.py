@@ -1,1 +1,2 @@
-Print ("welcome to CTS network");
+Print ("welcome to CTS network")
+Print ("Good Bye")
